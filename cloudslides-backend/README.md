@@ -2,6 +2,8 @@
 
 Complete backend API for the CloudSlides AI Presentation Generator.
 
+> **Last Updated:** November 19, 2025
+
 ## Features
 
 - ✅ Claude AI integration for intelligent slide generation
