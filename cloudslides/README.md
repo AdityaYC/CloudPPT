@@ -1,18 +1,52 @@
-# React + Vite
+# CloudSlides ☁️
 
-> **Last Updated:** November 19, 2025
+> 🏆 **Winner of ClaudeHacks 2025**
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+CloudSlides is a next-generation AI productivity suite designed to transform how you work. From generating stunning presentations to automating spreadsheet creation, CloudSlides leverages advanced AI to streamline your workflow.
 
-Currently, two official plugins are available:
+## Features 🚀
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### 🎨 AI Presentations
+Create stunning, professional slide decks in seconds. Just describe your topic, and let our AI handle the design, layout, and content.
 
-## React Compiler
+### 📊 Excel Generator
+Turn text into structured spreadsheets. Describe the data you need, and CloudSlides will generate a downloadable Excel file for you.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+### 🎙️ Speaker Notes
+Never miss a beat during your presentation. Generate comprehensive speaker notes that help you deliver your message with confidence.
 
-## Expanding the ESLint configuration
+## Tech Stack 💻
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- **Frontend**: React, Vite, TailwindCSS
+- **Icons**: Lucide React
+- **Styling**: Modern, responsive design with glassmorphism effects
+
+## Getting Started 🛠️
+
+1.  **Clone the repository**
+    ```bash
+    git clone https://github.com/yourusername/cloudslides.git
+    ```
+
+2.  **Install dependencies**
+    ```bash
+    cd cloudslides
+    npm install
+    ```
+
+3.  **Run the development server**
+    ```bash
+    npm run dev
+    ```
+
+4.  **Build for production**
+    ```bash
+    npm run build
+    ```
+
+## License 📄
+
+MIT License - see the [LICENSE](LICENSE) file for details.
+
+---
+*Built with ❤️ for ClaudeHacks 2025*
